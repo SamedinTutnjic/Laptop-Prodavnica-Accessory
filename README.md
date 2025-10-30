@@ -63,13 +63,15 @@ Sadrži:
 ## 🖼️ Screenshot aplikacije
 
 ### 💻 Glavna stranica – *Lista laptopa*
-![Laptops](https://github.com/SamedinTutnjic/laptop-store-lab1/assets/laptops-page.png)
 
-*(Ukoliko ne prikazuje, ubaci svoj screenshot kao `/screenshots/laptops.png` i promijeni put iznad.)*
+<img width="3433" height="938" alt="Slika 1" src="https://github.com/user-attachments/assets/c8a436cb-702e-4d9c-bcf2-bf5668103fe1" />
 
----
+### 💻 Stranica – *Lista Accessory*
 
-## 🚀 Pokretanje projekta
-1. Kloniraj repozitorij:
-   ```bash
-   git clone https://github.com/SamedinTutnjic/laptop-store-lab1.git
+<img width="3437" height="735" alt="Slika 2" src="https://github.com/user-attachments/assets/3d53cf85-44ca-45cc-b275-4566d2b5687c" />
+
+### 💻 Stranica – *Stavke*
+
+<img width="3433" height="684" alt="Slika 1 1" src="https://github.com/user-attachments/assets/f3a315c3-7fb5-4f5e-b61c-c2b6e6e05d49" />
+
+
